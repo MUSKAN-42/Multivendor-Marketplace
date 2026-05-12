@@ -44,13 +44,13 @@ const Footer = () => {
           <p className="text-sm text-gray-400 mb-3">Phone: +91 98765 43210</p>
 
           <div className="flex gap-3 mt-2">
-            <a href="" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
+            <a href="/" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
+            <a href="/" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
+            <a href="/" className="bg-gray-800 p-2 rounded-full hover:bg-yellow-400 hover:text-black transition">
               <i className="fab fa-twitter"></i>
             </a>
           </div>
